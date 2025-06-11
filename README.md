@@ -64,8 +64,8 @@ pip install -r requirements.txt
 
 ```txt
 qiskit>=2.0.0
-qiskit-aer>=0.15.0
-numpy>=1.24.0
+qiskit-aer>=0.17.0
+numpy>=2.2.0
 matplotlib>=3.6.0
 ```
 
@@ -171,7 +171,7 @@ from aqga_benchmark import plot_convergence_curves
 # Plot and save convergence curves
 plot_convergence_curves('ackley', max_iter=100, save_plot=True)
 ```
-<!--
+
 ## 📈 Results
 
 ### Expected Performance
