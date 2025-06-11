@@ -74,7 +74,7 @@ matplotlib>=3.6.0
 Run the complete benchmark suite:
 
 ```python
-python main.py
+python aqga_benchmark.py
 ```
 
 This will:
