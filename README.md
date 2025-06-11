@@ -304,11 +304,18 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{improved_aqga_2024,
-  author = {Your Name},
-  title = {Improved Adaptive Quantum Genetic Algorithm Benchmark Suite},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/aqga-benchmark}
+  author = {Yoshio Rubio Member, IAENG, Cynthia Olvera, and Oscar Montiel Member, IAENG},
+  title = {Quantum-Inspired Evolutionary Algorithms on IBM Quantum Experience},
+  year = {2021},
+  publisher = {Engineering Letters},
+  url = {https://www.researchgate.net/publication/356664610_Quantum-Inspired_Evolutionary_Algorithms_on_IBM_Quantum_Experience}
+}
+@software{improved_aqga_2024,
+  author = {Mohammad Kashfi Haghighi, Matthieu Fortin-Deschˆenes, Christophe Pere, Micka¨el Camus},
+  title = {EAQGA: A Quantum-Enhanced Genetic Algorithmwith Novel Entanglement-Aware Crossovers},
+  year = {2025},
+  publisher = {IEEE (QCE25)},
+  url = {https://arxiv.org/abs/2504.17923}
 }
 ```
 
@@ -322,8 +329,8 @@ If you use this code in your research, please cite:
 
 For questions or suggestions, please open an issue or contact:
 
-* Email: your.email@example.com
-* GitHub: [@yourusername](https://github.com/yourusername)
+<!--* Email: your.email@example.com-->
+* GitHub: [@thedaemon-wizard](https://github.com/thedaemon-wizard)
 
 ---
 
