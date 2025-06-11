@@ -35,7 +35,7 @@ A comprehensive benchmark suite comparing an improved Adaptive Quantum Genetic A
 
 ### Prerequisites
 
-* Python 3.8 or higher
+* Python 3.12 or higher
 * pip package manager
 
 ### Setup
