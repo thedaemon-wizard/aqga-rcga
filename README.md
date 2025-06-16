@@ -43,8 +43,8 @@ A comprehensive benchmark suite comparing an improved Adaptive Quantum Genetic A
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aqga-benchmark.git
-cd aqga-benchmark
+git clone https://github.com/yourusername/aqga-rcga.git
+cd aqga-rcga
 ```
 
 2. Create a virtual environment (recommended):
