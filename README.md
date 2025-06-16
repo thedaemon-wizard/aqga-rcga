@@ -43,7 +43,7 @@ A comprehensive benchmark suite comparing an improved Adaptive Quantum Genetic A
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aqga-rcga.git
+git clone https://github.com/thedaemon-wizard/aqga-rcga.git
 cd aqga-rcga
 ```
 
